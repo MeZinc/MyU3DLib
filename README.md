@@ -1,2 +1,3 @@
 # MyU3DLib
-Some useful functions (get from tutorials,articles,papers and so on) or frequently used stuff in unity summarized.
+到处搞的些功能函数，自己总结写好，用什么直接打包丢过去。这里先暂时记录写了什么，等内容丰富了再补充wiki。
+
