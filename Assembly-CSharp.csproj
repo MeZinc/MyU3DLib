@@ -43,8 +43,10 @@
      <None Include="Assets\Shaders\UnityShaderManul\Blend\AlphaBlending.shader" />
      <None Include="Assets\Shaders\UnityShaderManul\Blend\AlphaTest.shader" />
      <None Include="Assets\Shaders\ShaderLibExamples\functionLib.shader" />
+     <None Include="Assets\Shaders\UnityShaderManul\GrabPass\HeatDistortion.shader" />
      <None Include="Assets\Shaders\TestShaders\Cull_Depth_Test.shader" />
      <None Include="Assets\Shaders\TestShaders\StencilTest.shader" />
+     <None Include="Assets\Shaders\TestShaders\TestGrabShader.shader" />
      <None Include="Assets\Shaders\UnityShaderManul\Blend\AlphaToCoverage.shader" />
      <None Include="Assets\Shaders\TestShaders\EnumTest.shader" />
      <None Include="Assets\Shaders\UnityShaderManul\glass.shader" />
